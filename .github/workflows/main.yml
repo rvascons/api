@@ -28,4 +28,4 @@ jobs:
           context: .
           file: ./docker-compose.yml
           push: true
-          tags: your-dockerhub-username/your-repository-name:latest
+          tags: rvascons/portfolio-api:latest
